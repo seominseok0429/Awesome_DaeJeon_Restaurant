@@ -4,7 +4,11 @@
 #### 일식
 
 <details>
-  <summary>카이센동 과 고등어 봉초밥</summary>
-  ![KakaoTalk_Photo_2024-01-11-23-15-51](https://github.com/seominseok0429/DaeJeon_-Restaurant/assets/33244972/5e40c56e-f0c8-4576-a556-93aed6e100ea)
-
+  <summary><b>(★☆☆☆☆ 카이센동, 고등어봉초밥 )경성가-대전 유성구 대학로 77 1층 102호</b></summary>
+  <div markdown="1">
+    <ul>
+      <img src="./docs/주요_기능/포토스팟_콜렉션/1.gif" width=70%>
+      <img src="./docs/주요_기능/포토스팟_콜렉션/2.gif" width=70%>
+    </ul>
+  </div>
 </details>
