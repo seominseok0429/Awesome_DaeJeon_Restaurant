@@ -51,3 +51,14 @@
 </details>
 
 #### 중식
+
+<details>
+  <summary><b>(★★★★☆ 마라탕, 마라샹궈)청두-대전 유성구 문지로 319-17 1층</b></summary>
+  <div markdown="1">
+    <ul>
+      <li>마라샹궈하면 딱 떠오르는 그 맛. 한국에서 먹어본 마라샹궈중 3위 안에 든다. 나머지 메뉴들도 맛있어서 술먹으로 가면 좋을것 같다.</li>
+      <img src="./asset/mara.jpeg" width=70%>
+      <img src="./asset/mara2.jpeg" width=70%>
+    </ul>
+  </div>
+</details>
