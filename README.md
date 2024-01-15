@@ -31,9 +31,9 @@
   <div markdown="1">
     <ul>
       <li>.</li>
-      <img src="./asset/imgimg.jpeg" width=70%>
-      <img src="./asset/imgimg2.jpeg" width=70%>
-      <img src="./asset/imgimg3.jpeg" width=70%>
+      <img src="./asset/meat.jpeg" width=70%>
+      <img src="./asset/meat2.jpeg" width=70%>
+      <img src="./asset/meat3.jpeg" width=70%>
     </ul>
   </div>
 </details>
