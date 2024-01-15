@@ -31,7 +31,7 @@
   <div markdown="1">
     <ul>
       <li>.</li>
-      <img src="./asset/meat.jpeg" width=70%>
+      <img src="./asset/meat1.jpeg" width=70%>
       <img src="./asset/meat2.jpeg" width=70%>
       <img src="./asset/meat3.jpeg" width=70%>
     </ul>
