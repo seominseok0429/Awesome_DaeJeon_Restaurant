@@ -69,9 +69,9 @@
   <summary><b>(★★★★★ 피자, 파스타)누오보나폴리-대전 유성구 농대로 15 신협3층</b></summary>
   <div markdown="1">
     <ul>
-      <li>-</li>
-      <img src="-" width=70%>
-      <img src="-" width=70%>
+      <li>-태어나서 먹은 음식중 가장 맛있었음. (하지만 주변 친구들중 많은 사람들이 짜다는 평가가 많았음. 참고바람). The food I've had here is the most delicious I've ever tasted in my life. However, it's worth noting that many of my friends found the dishes to be too salty. </li>
+      <img src="" width=70%>
+      <img src="" width=70%>
     </ul>
   </div>
 </details>
