@@ -82,7 +82,7 @@
   <div markdown="1">
     <ul>
       <li> 삼계탕맛이 다 거기서 거기긴 한데, 실망스러운 삼계탕 맛은 아니다.</li>
-      <img src="./asset/pizza.jpeg" width=70%>
+      <img src="./asset/kic.jpeg" width=70%>
     </ul>
   </div>
 </details>
