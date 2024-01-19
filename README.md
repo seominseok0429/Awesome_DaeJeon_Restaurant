@@ -87,6 +87,16 @@
   </div>
 </details>
 
+<details>
+  <summary><b>(★★★★☆ 따봉시레기, 왕갈비탕)형과아우누룽지삼계탕왕갈비탕-대전 유성구 대덕대로590번길 12-7 지상1층(도룡동)</b></summary>
+  <div markdown="1">
+    <ul>
+      <li> 삼계탕맛이 다 거기서 거기긴 한데, 실망스러운 삼계탕 맛은 아니다.</li>
+      <img src="./asset/kic.jpeg" width=70%>
+    </ul>
+  </div>
+</details>
+
 #### KT 급식
 
 <details>
