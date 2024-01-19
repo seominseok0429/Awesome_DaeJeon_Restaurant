@@ -87,5 +87,17 @@
   </div>
 </details>
 
+### KT 급식
+
+<details>
+  <summary><b>(★★★★☆ 삼계탕, 왕갈비탕)형과아우누룽지삼계탕왕갈비탕-대전 유성구 대덕대로590번길 12-7 지상1층(도룡동)</b></summary>
+  <div markdown="1">
+    <ul>
+      <li> -</li>
+      <img src="./asset/kic.jpeg" width=70%>
+    </ul>
+  </div>
+</details>
+
 #### 디저트 & 카페
 
